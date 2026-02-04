@@ -8,28 +8,6 @@ I love turning complex workflows into clean, usable software — especially wher
 
 Currently focused on building full-stack applications with **React + Python**, and exploring **AI-assisted development** and automation.
 
-## 📌 Featured Projects
-
-### 🧾 TripLedger  
-**React | Flask | PostgreSQL | SQLAlchemy**  
-A full-stack expense tracking platform for holiday & trip budgeting.
-
----
-
-### 💪 My Fitness Tracker  
-**React | Flask | PostgreSQL**  
-Track workouts, logs, and progress with protected routes & dynamic forms.
-
----
-
-### 🏆 UFC Roster Explorer (CLI)  
-**Python | SQLAlchemy | SQLite**  
-Menu-driven CLI to manage fighters, rankings, and records with full CRUD.
-
----
-
-### 🥊 UFC Champions Hub  
-Interactive front-end focused project exploring sports data visualization.
 
 ---
 
