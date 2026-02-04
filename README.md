@@ -22,7 +22,7 @@ I focus on full-stack development using **React and Python**, with an emphasis o
 
 ---
 
-- 📝 I regularly write articles on **[https://medium.com/@nickren93](https://medium.com/@nickren93)**
+📝 I regularly write articles on **[https://medium.com/@nickren93](https://medium.com/@nickren93)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
