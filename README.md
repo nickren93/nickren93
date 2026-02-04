@@ -3,11 +3,22 @@
 ### Software Engineer | Full-Stack (React, Python, Flask) | Former Mechanical Engineer
 
 #### 
-I’m a former **Mechanical / MEP Design Engineer** who transitioned into software engineering to build smarter, more scalable systems.  
-I love turning complex workflows into clean, usable software — especially where **data, automation, and AI** can create real impact.
 
-Currently focused on building full-stack applications with **React + Python**, and exploring **AI-assisted development** and automation.
+I’m a passionate Software Engineer with a background in Mechanical / MEP Engineering, where I spent years designing real-world systems in high-stakes environments. 
+I bring that same systems mindset into software — building reliable, scalable, and well-structured applications that solve practical problems.
 
+#####
+I focus on full-stack development using **React and Python**, with an emphasis on clean architecture, data modeling, and maintainable backend services. I’m especially interested in how modern tools and automation can improve developer productivity and system efficiency.
+
+---
+
+## 🚀 What I Do
+
+- Build full-stack web applications (frontend → backend → database)
+- Design REST APIs & relational data models
+- Create secure authentication & user flows
+- Apply **systems thinking** from engineering to software
+- Experiment with **AI tools (Copilot, ChatGPT, prompt workflows)** to ship faster
 
 ---
 
