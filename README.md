@@ -15,10 +15,10 @@ I focus on full-stack development using **React and Python**, with an emphasis o
 ## 🛠️ What I Do
 
 - Build full-stack web applications (frontend → backend → database)
-- Design REST APIs & relational data models
-- Create secure authentication & user flows
-- Apply **systems thinking** from engineering to software
-- Experiment with **AI tools (Copilot, ChatGPT, prompt workflows)** to ship faster
+- Design and implement RESTful APIs and relational data models
+- Develop secure authentication and user workflows
+- Apply systems thinking to improve performance, reliability, and maintainability
+- Use modern developer tools (including AI-assisted tooling) to iterate faster and write higher-quality code
 
 ---
 
