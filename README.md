@@ -12,7 +12,7 @@ I focus on full-stack development using **React and Python**, with an emphasis o
 
 ---
 
-## 🚀 What I Do
+## 🛠️ What I Do
 
 - Build full-stack web applications (frontend → backend → database)
 - Design REST APIs & relational data models
